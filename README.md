@@ -34,7 +34,7 @@ Feature Engineering: Transformed the "Date" column into datetime format and extr
 
 # 📜 Conclusion:
 
-This project successfully developed a machine learning model capable of accurately predicting bike rental demand in Seoul with **89.5% predictive accuracy**. By leveraging comprehensive data analysis and advanced modeling techniques, the model provides valuable insights into the factors driving bike rentals. These insights can guide strategic decisions for optimizing bike-sharing operations, improving user satisfaction, and enhancing operational efficiency. Future work will focus on integrating additional data sources and deploying the model for real-time demand forecasting.
+This project successfully developed a machine learning model capable of accurately predicting bike rental demand in Seoul, demonstrating its high **predictive accuracy of 89.5%**. By leveraging comprehensive data analysis and advanced modeling techniques, the model provides valuable insights into the factors driving bike rentals. These insights can guide strategic decisions for optimizing bike-sharing operations, improving user satisfaction, and enhancing operational efficiency. Future work will focus on integrating additional data sources and deploying the model for real-time demand forecasting.
 
 # 💾 Project Files Description
 
