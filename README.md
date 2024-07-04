@@ -9,28 +9,28 @@ The goal of this project is to develop a robust regression model to predict the 
 
 # 📝 Project Highlights
 
-**- Data Quality Assurance:** Checked for duplicate rows and missing values, ensuring a clean dataset for analysis.
+- **Data Quality Assurance:** Checked for duplicate rows and missing values, ensuring a clean dataset for analysis.
 Feature Engineering: Transformed the "Date" column into datetime format and extracted day and month. Encoded categorical features and selected relevant predictors using techniques like VIF.
 
-**- Exploratory Data Analysis (EDA):** Conducted extensive EDA to uncover demand trends and relationships between various factors and bike rentals.
+- **Exploratory Data Analysis (EDA):** Conducted extensive EDA to uncover demand trends and relationships between various factors and bike rentals.
 
-**- Hypothesis Testing:** Validated key hypotheses about the influence of temperature, humidity and holidays on bike rental demand.
+- **Hypothesis Testing:** Validated key hypotheses about the influence of temperature, humidity and holidays on bike rental demand.
 
-**- Model Development:** Implemented and fine-tuned five regression models using Grid Search CV to find the best performing model.
+- **Model Development:** Implemented and fine-tuned five regression models using Grid Search CV to find the best performing model.
 
-**- Model Evaluation:** Assessed models using metrics such as MSE, MAE, RMSE and R² score to determine accuracy and reliability.
+- **Model Evaluation:** Assessed models using metrics such as MSE, MAE, RMSE and R² score to determine accuracy and reliability.
 
 # 🔑 Key Insights:
 
-**- Demand Patterns:** Rental demand varies significantly by hour, day, month and season, with peak hours showing the highest demand.
+- **Demand Patterns:** Rental demand varies significantly by hour, day, month and season, with peak hours showing the highest demand.
 
-**- Weather Impact:** Temperature, humidity, and other weather-related features have a substantial effect on bike rental counts.
+- **Weather Impact:** Temperature, humidity, and other weather-related features have a substantial effect on bike rental counts.
 
-**- Holiday Influence:** There are notable differences in bike rentals between working days and holidays, highlighting the need for different strategies on these days.
+- **Holiday Influence:** There are notable differences in bike rentals between working days and holidays, highlighting the need for different strategies on these days.
 
-**- Feature Importance:** Hour of the day, weather conditions, and functional days emerged as the most critical factors in predicting bike rentals.
+- **Feature Importance:** Hour of the day, weather conditions, and functional days emerged as the most critical factors in predicting bike rentals.
 
-**- Optimal Model:** The Random Forest Regression model, with hyperparameter tuning, achieved an R² score of 0.895, indicating its strong predictive performance.
+- **Optimal Model:** The Random Forest Regression model, with hyperparameter tuning, achieved an R² score of 0.895, indicating its strong predictive performance.
 
 # 📜 Conclusion:
 
