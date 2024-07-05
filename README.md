@@ -1,4 +1,4 @@
-# Bike-Sharing-Demand-Prediction
+# Bike Sharing Demand Prediction
 ![29c9632c4ab7640fa4f54e016b22ed85](https://github.com/itsroshan137/Horizontal-Swiper/assets/149718190/0fc2fe1a-aaf6-4171-aa77-b97091d6e409)
 
 # Introduction:
