@@ -47,7 +47,7 @@ This project successfully developed a machine learning model capable of accurate
 
 **README.md:** Provides an overview of the project.
 
-# 🛠️ Build With
+# 🛠️ Built With
 
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/e689d448-2f9f-49b4-b9f2-5071ae074e78)
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/9ebacff9-c509-40a1-8934-d0f9e5d9c45a)
