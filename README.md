@@ -1,5 +1,8 @@
 # Bike Sharing Demand Prediction
-![29c9632c4ab7640fa4f54e016b22ed85](https://github.com/itsroshan137/Horizontal-Swiper/assets/149718190/0fc2fe1a-aaf6-4171-aa77-b97091d6e409)
+
+<p align="center">
+  <img width="560" height="400" src=https://github.com/itsroshan137/Horizontal-Swiper/assets/149718190/0fc2fe1a-aaf6-4171-aa77-b97091d6e409"
+<p/>
 
 # Introduction
 This project focuses on predicting bike rental demand in Seoul, South Korea, using machine learning techniques. By accurately forecasting demand, the project aims to optimize resource allocation and service availability, ultimately enhancing user experience and increasing profitability for the bike rental service.
@@ -10,15 +13,15 @@ The goal of this project is to develop a robust regression model to predict the 
 # 📝 Project Highlights
 
 - **Data Quality Assurance:** Checked for duplicate rows and missing values, ensuring a clean dataset for analysis.
-Feature Engineering: Transformed the "Date" column into datetime format and extracted day and month. Encoded categorical features and selected relevant predictors using techniques like VIF.
+Feature Engineering: Transformed the "Date" column into datetime format and extracted day and month. Encoded categorical features and selected relevant predictors using techniques like ***VIF (Variance Inflation Factor)***.
 
 - **Exploratory Data Analysis (EDA):** Conducted extensive EDA to uncover demand trends and relationships between various factors and bike rentals.
 
 - **Hypothesis Testing:** Validated key hypotheses about the influence of temperature, humidity and holidays on bike rental demand.
 
-- **Model Development:** Implemented and fine-tuned five regression models using Grid Search CV to find the best performing model.
+- **Model Development:** Implemented and fine-tuned five regression models using ***Grid Search CV*** to find the best performing model.
 
-- **Model Evaluation:** Assessed models using metrics such as MSE, MAE, RMSE and R² score to determine accuracy and reliability.
+- **Model Evaluation:** Assessed models using metrics such as ***MSE, MAE, RMSE*** and ***R²*** score to determine accuracy and reliability.
 
 # 🔑 Key Insights
 
@@ -30,7 +33,7 @@ Feature Engineering: Transformed the "Date" column into datetime format and extr
 
 - **Feature Importance:** Hour of the day, weather conditions, and functional days emerged as the most critical factors in predicting bike rentals.
 
-- **Optimal Model:** The Random Forest Regression model, with hyperparameter tuning, achieved an R² score of 0.895, indicating its strong predictive performance.
+- **Optimal Model:** The Random Forest Regression model, with hyperparameter tuning, achieved an **R² score of 0.895**, indicating its strong predictive performance.
 
 # 📜 Conclusion
 
